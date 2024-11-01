@@ -1,0 +1,9 @@
+variable "environment" {}
+variable "resource_group_name" {}
+variable "location" {}
+variable "vnet_name" {}
+variable "vnet_address_prefix" {}
+variable "subnets" {}
+variable "nsg_name" {}
+variable "public_vm_size" {}
+variable "private_vm_size" {}

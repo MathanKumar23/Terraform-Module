@@ -1,0 +1,10 @@
+variable "environment" {}
+variable "resource_group_name" {}
+variable "location" {}
+variable "subnet_id" {}
+variable "public_vm_size" {}
+variable "private_vm_size" {}
+variable "public_key_path" {}
+variable "pem_file_path" {}
+variable "encoded_path" {}
+variable "script_path" {}
