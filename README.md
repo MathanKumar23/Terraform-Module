@@ -5,10 +5,10 @@ This Terraform project is built using a modular approach for creating infrastruc
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
-- [Steps](#setps)
-- [Project Structure](#projectStructure)
-- [Module Descriptions](#moduleDescriptions)
-- [Environment-Specific Configurations](#EnvironmenTSpecificConfigurations)
+- [Steps](#steps)
+- [Project Structure](#project-structure)
+- [Module Descriptions](#module-descriptions)
+- [Environment-Specific Configurations](#Environment-specific-configurations)
 - [Acknowledgement](#acknowledgement)
 - [License](#license)
 
